@@ -1,5 +1,5 @@
 the website
-file:///C:/Users/Ananya%20rg/Desktop/simple.html
+file:///C:/Users/Ananya%20rg/Desktop/s.html
 
 code for website
 
@@ -15,34 +15,18 @@ code for website
     <header>
         <h1>Welcome to My Simple Website</h1>
     </header>
-    <nav>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#services">Services</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
     <main>
-        <section id="home">
-            <h2>Home</h2>
-            <p>This is a simple website created using HTML.</p>
-        </section>
-        <section id="about">
-            <h2>About</h2>
-            <p>About section content goes here.</p>
-        </section>
-        <section id="services">
-            <h2>Services</h2>
-            <p>Services section content goes here.</p>
-        </section>
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>Contact section content goes here.</p>
-        </section>
+        <h2>About This Website</h2>
+        <p>This is a simple HTML page created to demonstrate the basics of HTML.</p>
+        <h2>Features</h2>
+        <ul>
+            <li>Header</li>
+            <li>Body Content</li>
+            <li>Footer</li>
+        </ul>
     </main>
     <footer>
-        <p>&copy; 2024 Simple Website. All rights reserved.</p>
+        <p>&copy; 2024 Simple Website</p>
     </footer>
 </body>
 </html>
